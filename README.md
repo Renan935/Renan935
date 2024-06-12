@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**Renan935/Renan935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Renan
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Compreendo inglês em nível intermediario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você pode entrar em contato comigo
+
+  renanfidelis35@gmail.com
+
+
+![](https://media1.tenor.com/m/qPnmptmatLYAAAAC/extraterrestrial-creature-symbiote.gif)
